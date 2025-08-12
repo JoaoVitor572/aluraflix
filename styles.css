@@ -10,4 +10,27 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgb(42, 122, 228);
+.chamada{
+    background:rgb(0, 0, 0)
+    padding-botton: 80px;
+    padding-top: 8px;
+    display:flex;
+    justify-content:center;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font: size 20px;
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.categoria{
+    
 }
